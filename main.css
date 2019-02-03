@@ -1,0 +1,101 @@
+body
+{
+    background-color: #e9ebee;
+}
+
+header 
+{
+  background-color: #4267b2;
+  height: 20px;
+}
+
+.profile-image
+{
+    display:inline;
+    height:20px;
+    width:20px;
+    border-radius:50%;
+    
+}
+.white-text
+{
+    color:white !important;
+}
+#wrapper
+{
+  margin-top: 33px;
+  margin-bottom: 16px;
+}
+#main
+{
+    margin-top: 25px;
+}
+#main,
+#menu,
+#sidebar
+{
+  background-color: #e9ebee;
+  height: 600px;
+}
+
+#main
+{
+  overflow: auto;
+}
+
+
+#main::-webkit-scrollbar
+{
+  display: none;
+}
+
+
+#header
+{
+    background-color: #4267b2;
+    color:white;
+}
+
+.white-text
+{
+  color: white !important;
+}
+
+.list-heading 
+{
+    padding: 20px 15px 0 15px;
+    color:gray;
+}
+
+#menu
+{
+    text-align: right;
+    padding:0 20px 0 0px;
+}
+
+
+#menu a
+{
+    color: black;
+}
+#menu .glyphicon
+{
+    color: blue;
+}
+.panel-heading a
+{
+color:blue;
+}
+
+.panel-footer .glyphicon 
+{
+  margin-left: 10px;
+  margin-right: 4px;
+}
+
+.text-post 
+{
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
